@@ -14,7 +14,8 @@
 ---
 
  
-🐍 To do the tutorials in `python`, clone and install the ENIGMA Toolbox repository:
+### 🐍 Python installation
+To do the tutorials in `python`, clone and install the ENIGMA Toolbox repository:
 ```
 git clone https://github.com/MICA-MNI/ENIGMA.git
 pip install /path/to/<ENIGMA>
@@ -28,7 +29,8 @@ python -m pip install -r requirements.txt
 ```
  <br>
 
-🌋 To do the tutorials in `matlab`, clone the current repository:
+### 🌋 Matlab installation
+To do the tutorials in `matlab`, clone the current repository:
 ```
 git clone https://github.com/saratheriver/YRE-2022.git
 ```
@@ -40,3 +42,9 @@ git clone https://github.com/MICA-MNI/ENIGMA.git
 addpath(genpath('/path/to/<ENIGMA>/matlab/'))
 addpath(genpath('/path/to/<BRAINSTAT>/brainstat_matlab/'))
 ```
+
+---
+
+### 🔗 Tutorial links
+> [ENIGMA Toolbox tutorial | 🐍](./python_tuts/01.ENIGMA-Tutorial.ipynb) <br/>
+> [ENIGMA Toolbox tutorial | 🌋](./python_tuts/) <br/>
