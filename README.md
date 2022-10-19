@@ -9,7 +9,7 @@
     
 - [ BrainStat ](https://brainstat.readthedocs.io/en/master/)
 
-    Vos de Wael R, Bayrak Ş, Benkarim O, Herholz P, Larivière S, Rodriguez-Cruces R, Paquola C, Hong SJ, Misic B, Evans A, Valk S. BrainStat: A toolbox for brain-wide statistics and neuroscientific contextualization. _bioRxiv_. 2022 Jan 1.
+    Larivière S, Bayrak Ş, Vos de Wael R, Benkarim O, Herholz P, Rodriguez-Cruces R, Paquola C, Hong SJ, Misic B, Evans A, Valk S. BrainStat: A toolbox for brain-wide statistics and neuroscientific contextualization. _Under review (NeuroImage)_.
 
 ---
 
