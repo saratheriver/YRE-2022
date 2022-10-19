@@ -28,7 +28,11 @@ python -m pip install -r requirements.txt
 ```
  <br>
 
-🌋 To do the tutorials in `matlab`, clone the ENIGMA Toolbox and BrainStat repositories and add their paths in matlab:
+🌋 To do the tutorials in `matlab`, clone the current repository:
+```
+git clone https://github.com/saratheriver/YRE-2022.git
+```
+Also clone the ENIGMA Toolbox and BrainStat repositories and add their paths in matlab:
 ```
 git clone https://github.com/MICA-MNI/BrainStat.git
 git clone https://github.com/MICA-MNI/ENIGMA.git
