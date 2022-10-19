@@ -14,9 +14,13 @@
 ---
 
  
-🐍 To do the tutorials in `python`, clone this repository and the ENIGMA Toolbox repository, and then run:
+🐍 To do the tutorials in `python`, clone and install the ENIGMA Toolbox repository:
 ```
 git clone https://github.com/MICA-MNI/ENIGMA.git
+pip install /path/to/<ENIGMA>
+```
+Also clone the current repository and install the requirements:
+```
 git clone https://github.com/saratheriver/YRE-2022.git
 
 cd /path/to/<YRE-2022>/
