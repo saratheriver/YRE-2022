@@ -14,9 +14,8 @@
 ---
 
  
-🐍 To do the tutorials in `python`, clone this repository as well as the ENIGMA Toolbox and BrainStat repositories, and then run:
+🐍 To do the tutorials in `python`, clone this repository and the ENIGMA Toolbox repository, and then run:
 ```
-git clone https://github.com/MICA-MNI/BrainStat.git
 git clone https://github.com/MICA-MNI/ENIGMA.git
 git clone https://github.com/saratheriver/YRE-2022.git
 
