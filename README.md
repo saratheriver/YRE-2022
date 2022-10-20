@@ -46,7 +46,10 @@ addpath(genpath('/path/to/<BRAINSTAT>/brainstat_matlab/'))
 ---
 
 ### 🔗 Tutorial links
-> [ | 🐍 | ENIGMA Toolbox tutorial](./python_tuts/01.ENIGMA-Tutorial.ipynb) <br/>
-> [| 🌋 | ENIGMA Toolbox tutorial](./matlab_tuts/01.ENIGMA-Tutorial.mlx) <br/>
-> [ | 🐍 | BrainStat tutorial](./python_tuts/02.BRAINSTAT-Tutorial.ipynb) <br/>
-> [| 🌋 | BrainStat tutorial](./matlab_tuts/02.BRAINSTAT-Tutorial.mlx) <br/>
+#### 🐍 Python
+> [ | 1 | ENIGMA Toolbox tutorial](./python_tuts/01.ENIGMA-Tutorial.ipynb) <br/>
+> [ | 2 | BrainStat tutorial](./python_tuts/02.BRAINSTAT-Tutorial.ipynb) <br/>
+
+#### 🌋 Matlab
+> [ | 1 | ENIGMA Toolbox tutorial](./matlab_tuts/01.ENIGMA-Tutorial.mlx) <br/>
+> [ | 2 | BrainStat tutorial](./matlab_tuts/02.BRAINSTAT-Tutorial.mlx) <br/>
